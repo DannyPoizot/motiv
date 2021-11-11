@@ -6,3 +6,21 @@ hr {
 footer {
   text-align: center;
 }
+
+img {
+  width: 100%;
+}
+
+.photo {
+  width: 50%;
+  border-radius: 50px 50px;
+  text-align: right;
+}
+
+.greentea {
+  width: 50%;
+}
+
+.raven {
+  width: 50%;
+}
